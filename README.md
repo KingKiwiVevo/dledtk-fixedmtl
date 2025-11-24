@@ -2,7 +2,7 @@
 
 **DromEd Level Editor Developer Textures Kit** is a free, open source project for the [Dark Engine's level editor called DromEd](https://en.wikipedia.org/wiki/Dark_Engine#DromEd) (ShockEd for System Shock 2 video game). It's basically a simple set of textures that makes easier to build fan missions.
 
-![DromEd Level Editor Developer Textures Kit - Kit Preview](https://image.ibb.co/kYWbaa/dledtk_preview.png)
+![DromEd Level Editor Developer Textures Kit - Kit Preview](RepoAssets/dledtk-preview.png)
 
 > **Current version**: 1.2.3 (2025.11.23) - [[Original Project Page](https://github.com/jonathanlinat/dledtk)] [[TTLG thread](http://www.ttlg.com/forums/showthread.php?t=147675&p=2351521&viewfull=1#post2351521)]
 
@@ -31,13 +31,13 @@ mod_path .\EditorMods\dledtk
 ```
 - And you're done! You can now load the texture family when inside DromEd.
 
-![DromEd Level Editor Developer Textures Kit - Import textures](https://image.ibb.co/nr4jTv/dledtk_importtextures.png)
+![DromEd Level Editor Developer Textures Kit - Import textures](RepoAssets/dledtk-importtextures.png)
 
 ## Contributing
 
 You can create new textures using the PSD files (CS6) located into the `src/` folder. Use this guide to know the right texture sizes:
 
-![DromEd Level Editor Developer Textures Kit - Sizes guide](https://image.ibb.co/mDynYv/dledtk_sizesguide.png)
+![DromEd Level Editor Developer Textures Kit - Sizes guide](RepoAssets/dledtk-sizesguide.png)
 
 ## Licence
 
